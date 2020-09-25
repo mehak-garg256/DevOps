@@ -1,2 +1,0 @@
-working on undohow to undo the file after staged
-how to undo the file after committing
